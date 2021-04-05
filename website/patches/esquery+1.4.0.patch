@@ -1,0 +1,12 @@
+diff --git a/node_modules/esquery/package.json b/node_modules/esquery/package.json
+index 3d81875..da4286a 100644
+--- a/node_modules/esquery/package.json
++++ b/node_modules/esquery/package.json
+@@ -5,7 +5,6 @@
+   "contributors": [],
+   "description": "A query library for ECMAScript AST using a CSS selector like query language.",
+   "main": "dist/esquery.min.js",
+-  "module": "dist/esquery.esm.min.js",
+   "files": [
+     "dist/*.js",
+     "dist/*.map",
